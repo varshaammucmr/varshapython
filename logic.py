@@ -8,6 +8,8 @@ else(b>c):
 else:
 	print(c,"is greater")
 
+	
+	output
 dl211@soetcse:~/varsha$ python logic.py
 enter value of a:56
 enter value of b:45
