@@ -5,3 +5,11 @@ if(a>b):
 elif(b>a):
 	print(b,"is negative")
 	
+
+
+dl211@soetcse:~/varsha$ python positive.py
+enter value of a:7889
+enter value of b:567
+(7889, 'is negative')
+dl211@soetcse:~/varsha$ 
+
