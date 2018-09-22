@@ -1,9 +1,15 @@
+     
+   
+      INPUT
+
 n=int(input("enter value of n"))
 for i in range(1,n):
 	for j in range(1,11):
 		print(i,"X",j,"=",i*j)
 
 
+	OUTPUT	
+		
 dl211@soetcse:~/varsha$ python 10multiply.py
 enter value of n4
 (1, 'X', 1, '=', 1)
@@ -36,5 +42,5 @@ enter value of n4
 (3, 'X', 8, '=', 24)
 (3, 'X', 9, '=', 27)
 (3, 'X', 10, '=', 30)
-dl211@soetcse:~/varsha$ 
+ 
 
