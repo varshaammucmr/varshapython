@@ -1,6 +1,6 @@
-     
+    RANGE OF N NUMBERS 
    
-      INPUT
+       INPUT   
 
 n=int(input("enter value of n"))
 for i in range(1,n):
