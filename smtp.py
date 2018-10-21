@@ -2,7 +2,7 @@
 import smtplib
 s=smtplib.SMTP('smtp.gmail.com',587)
 s.starttls()
-s.login("varshapn27@gmail.com","Va!(^%shApn")
+s.login("varshapn27@gmail.com","ABCDEFGHIJK")
 msg="hello"
 s.sendmail("varshapn27@gmail.com","vadisenays@gmail.com",msg)
 print('sent')
