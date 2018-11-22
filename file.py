@@ -1,0 +1,6 @@
+f=open("varsha.txt","w")
+f.write("bye")
+f=open("varsha.txt", "a")
+f.write("python programming")
+f=open ("varsha.txt","r")
+print(f.read())
